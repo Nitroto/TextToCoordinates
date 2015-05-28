@@ -6,7 +6,7 @@ class TextToCoordinates
 {
     static void Main()
     {
-        char[][] field = new char[21][];
+        List<char[]> field = new List<char[]>();
         int number = 0;
         List<string> coordinates = new List<string>();
         using (StreamReader reader = new StreamReader("..\\..\\playfield.txt"))
@@ -14,14 +14,14 @@ class TextToCoordinates
             string line = string.Empty;
             while ((line = reader.ReadLine()) != null)
             {
-                field[number] = line.ToCharArray();
+                field.Add(line.ToCharArray());
                 number++;
             }
         }
         using (StreamWriter writer = new StreamWriter("..\\..\\coordinates.txt"))
             for (int i = 0; i < field.Count(); i++)
             {
-                for (int j = 0; j < field[i].Count(); j++)
+                for (int j = 0; j < field[i].Length; j++)
                 {
                     if (field[i][j] != ' ')
                     {
