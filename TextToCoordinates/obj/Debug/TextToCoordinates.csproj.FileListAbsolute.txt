@@ -1,0 +1,10 @@
+C:\Users\Asen\Documents\Visual Studio 2015\Projects\FieldFieler\TextToCoordinates\bin\Debug\TextToCoordinates.exe
+C:\Users\Asen\Documents\Visual Studio 2015\Projects\FieldFieler\TextToCoordinates\bin\Debug\TextToCoordinates.pdb
+C:\Users\Asen\Documents\Visual Studio 2015\Projects\FieldFieler\TextToCoordinates\obj\Debug\TextToCoordinates.csprojResolveAssemblyReference.cache
+C:\Users\Asen\Documents\Visual Studio 2015\Projects\FieldFieler\TextToCoordinates\obj\Debug\TextToCoordinates.exe
+C:\Users\Asen\Documents\Visual Studio 2015\Projects\FieldFieler\TextToCoordinates\obj\Debug\TextToCoordinates.pdb
+C:\Users\Asen\Documents\GitHub\TextToCoordinates\TextToCoordinates\obj\Debug\TextToCoordinates.exe
+C:\Users\Asen\Documents\GitHub\TextToCoordinates\TextToCoordinates\obj\Debug\TextToCoordinates.pdb
+C:\Users\Asen\Documents\GitHub\TextToCoordinates\TextToCoordinates\bin\Debug\TextToCoordinates.exe
+C:\Users\Asen\Documents\GitHub\TextToCoordinates\TextToCoordinates\bin\Debug\TextToCoordinates.pdb
+C:\Users\Asen\Documents\GitHub\TextToCoordinates\TextToCoordinates\obj\Debug\TextToCoordinates.csprojResolveAssemblyReference.cache
